@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Leo 👋
+
+
+
+I’m a 4th-year Computer Engineering Co-op Student at the University of Alberta with a passion for technology and innovation. Whether it’s tinkering with microcontrollers, building machine learning models to analyze data, or experimenting with laser cutting and 3D printing, I thrive on learning and creating something new every day.
+
+Currently, I’m developing an embedded system for a total artificial heart with the team at Alberta Hearts. I’m also looking forward to continuing my co-op journey in Summer 2025, where I hope to tackle exciting challenges and grow as an engineer.
+
+I enjoy connecting and exchanging ideas with people from all backgrounds. Feel free to reach out—I’d love to chat!
 
 <!--
 **Sorlux/Sorlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
