@@ -1,5 +1,7 @@
 ## Hi, I'm Leo 👋
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardodominguezm/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:domingu1@ualberta.ca)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sorlux)
 
 
 I’m a 4th-year Computer Sopftware Engineering Co-op Student at the University of Alberta with a passion for technology and innovation. Whether it’s tinkering with microcontrollers, building machine learning models to analyze data, or experimenting with laser cutting and 3D printing, I thrive on learning something new every day. I enjoy connecting and exchanging ideas with people from all backgrounds.
